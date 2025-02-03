@@ -1,0 +1,16 @@
+h1 {
+  color: darkred;
+  text-align: center;
+}
+
+.login-inputs {
+  /* class */
+  font-size: 25px;
+}
+
+#btn-login {
+  /* id */
+  font-size: 20px;
+  width: 100px;
+  height: 30px;
+}
